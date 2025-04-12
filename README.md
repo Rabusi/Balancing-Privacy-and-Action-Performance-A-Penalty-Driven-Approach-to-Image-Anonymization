@@ -26,3 +26,7 @@ The rapid development of video surveillance systems for object detection, tracki
 ### Dataset Setup
 
 [VISPR Page](https://tribhuvanesh.github.io/vpa/)
+
+## Proposed penalty driven framework 
+
+[Framework](images/architecture_mod.pdf)
