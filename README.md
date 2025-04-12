@@ -1,7 +1,18 @@
 # Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
 
-This repository contains the official implementation of our CVPRW 2025 paper:  
-A PyTorch-based framework for training anonymization models with action recognition constraints. This project introduces a penalty-driven strategy to balance image anonymization and downstream action performance using custom loss functions and multi-phase training.
+📌 **Official implementation of our CVPRW 2025 paper**  
+"A PyTorch-based framework for training anonymization models with action recognition constraints."
+
+🧠 This project introduces a **penalty-driven strategy** to balance 🔒 anonymization and 🏃‍♀️ action recognition performance, using custom 🧪 loss functions and 🛠️ two-step training.
+
+---
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red.svg)](https://pytorch.org/)
+
+---
+
 
 ⭐ If you find this work helpful to your research, Don't forget to give a star to this repo. Thanks! 🤗
 
