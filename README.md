@@ -3,6 +3,8 @@
 This repository contains the official implementation of our CVPRW 2025 paper:  
 A PyTorch-based framework for training anonymization models with action recognition constraints. This project introduces a penalty-driven strategy to balance image anonymization and downstream action performance using custom loss functions and multi-phase training.
 
+⭐ If you find this work helpful to your research, Don't forget to give a star to this repo. Thanks! 🤗
+
 **"Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization."**
 
 ## 📄 Abstract
@@ -38,3 +40,11 @@ The rapid development of video surveillance systems for object detection, tracki
 
 ### Apply Lipstick
 ![Apply Lipstick](images/applylipstick.png)
+
+## 📊 Results
+![](images/tab1.png)
+![](images/tab2.png)
+
+## 📬 Contact
+
+For any inquiries or feedback, feel free to reach out: [naas@create.aau.dk](mailto:naas@create.aau.dk)
