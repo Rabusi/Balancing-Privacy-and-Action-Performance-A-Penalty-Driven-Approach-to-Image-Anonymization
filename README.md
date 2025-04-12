@@ -8,8 +8,8 @@
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red.svg)](https://pytorch.org/)
+[![Stars](https://img.shields.io/github/stars/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization?style=social)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization/stargazers)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rabusi.Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
 
 ---
 
