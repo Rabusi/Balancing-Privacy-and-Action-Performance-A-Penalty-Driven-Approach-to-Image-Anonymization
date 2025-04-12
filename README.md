@@ -27,11 +27,14 @@ The rapid development of video surveillance systems for object detection, tracki
 
 [VISPR Page](https://tribhuvanesh.github.io/vpa/)
 
-## Proposed penalty driven framework 
+## 🧩 Proposed Penalty-Driven Framework
 
-images/architecture.png
+![Architecture](images/architecture.png)
 
-## Anonymized images
+## 🖼️ Anonymized Images
 
-images/brushhair.png
-images/applylipstick.png
+### Brush Hair
+![Brush Hair](images/brushhair.png)
+
+### Apply Lipstick
+![Apply Lipstick](images/applylipstick.png)
