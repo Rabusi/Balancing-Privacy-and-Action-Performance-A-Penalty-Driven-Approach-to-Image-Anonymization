@@ -29,4 +29,9 @@ The rapid development of video surveillance systems for object detection, tracki
 
 ## Proposed penalty driven framework 
 
-[Framework](images/architecture_mod.pdf)
+images/architecture.png
+
+## Anonymized images
+
+images/brushhair.png
+images/applylipstick.png
