@@ -16,6 +16,45 @@ This repository contains the official implementation of our **CVPRW 2025** paper
 ![](images/tab1.png)
 ![](images/tab2.png)
 
+## 🎥 Raw vs Anonymized Video Comparison
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <h4>🔍 Raw Video</h4>
+    <video width="320" height="240" controls>
+      <source src="images/1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div>
+    <h4>🕶️ Anonymized Video</h4>
+    <video width="320" height="240" controls>
+      <source src="images/2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+    <div>
+    <h4>🔍 Raw Video</h4>
+    <video width="320" height="240" controls>
+      <source src="images/3.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div>
+    <h4>🕶️ Anonymized Video</h4>
+    <video width="320" height="240" controls>
+      <source src="images/4.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+
+
+
 ## 📬 Contact
 For questions or feedback, feel free to reach out at 📧 naas@create.aau.dk
 
