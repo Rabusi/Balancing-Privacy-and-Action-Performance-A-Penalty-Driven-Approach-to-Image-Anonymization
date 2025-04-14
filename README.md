@@ -49,9 +49,6 @@ The rapid development of video surveillance systems for object detection, tracki
 ### Brush Hair
 ![Brush Hair](images/brushhair.png)
 
-### Apply Lipstick
-![Apply Lipstick](images/applylipstick.png)
-
 ## 📊 Results
 ![](images/tab1.png)
 ![](images/tab2.png)
