@@ -2,7 +2,7 @@
 title: Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization
 ---
 
-# Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
+# 🔐 Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
 
 📌 **Official implementation of our CVPRW 2025 paper**  
 "A PyTorch-based framework for training anonymization models with action recognition constraints."
@@ -14,14 +14,12 @@ title: Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Ima
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization?style=social)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization/stargazers)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rabusi.Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
-[Github](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization).
+[GitHub Repo](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
 
 ---
 
 
-⭐ If you find this work helpful to your research, Don't forget to give a star to this repo. Thanks! 🤗
-
-**"Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization."**
+⭐ If you find this work helpful to your research, don't forget to give a star to this repo! Thanks! 🤗
 
 ## 📄 Abstract
 
@@ -62,7 +60,7 @@ The rapid development of video surveillance systems for object detection, tracki
     </video>
   </div>
 
-    <div>
+  <div>
     <h4>🔍 Raw Video</h4>
     <video width="320" height="240" controls>
       <source src="images/3.mp4" type="video/mp4">
@@ -79,8 +77,6 @@ The rapid development of video surveillance systems for object detection, tracki
   </div>
 </div>
 
-
 ## 📬 Contact
-For questions or feedback, feel free to reach out at 📧 naas@create.aau.dk
 
-> ⭐️ Star the repo to support the project!
+For questions or feedback, feel free to reach out at 📧 [naas@create.aau.dk](mailto:naas@create.aau.dk)
