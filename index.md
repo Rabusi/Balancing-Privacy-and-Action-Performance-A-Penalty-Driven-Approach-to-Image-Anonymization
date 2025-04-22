@@ -2,26 +2,16 @@
 title: "Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization"
 --- 
 
-# Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
-
 [Nazia Aslam](https://github.com/Rabusi)<sup>1,2</sup>, [Kamal Nasrollahi](https://vbn.aau.dk/en/persons/117162)<sup>1,2,3</sup>  
 <br>
-<sup>1</sup> Visual Analysis and Perception Lab, Aalborg University, Denmark  
-<sup>2</sup> Pioneer Centre for AI, Denmark  
-<sup>3</sup> Milestone Systems, Denmark
-
+<sup>1</sup> Visual Analysis and Perception Lab, Aalborg University, Denmark, <sup>2</sup> Pioneer Centre for AI, Denmark, <sup>3</sup> Milestone Systems, Denmark
 
 
 🧠 This project introduces a **penalty-driven strategy** to balance 🔒 anonymization and 🏃‍♀️ action recognition performance, using custom 🧪 loss functions and 🛠️ two-step training.
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rabusi.Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
-
-[![Code](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
-
-[![arXiv](https://img.shields.io/badge/arXiv-2504.14301-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.14301)
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rabusi.Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization) [![Code](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization) [![arXiv](https://img.shields.io/badge/arXiv-2504.14301-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.14301)
 
 ---
 
