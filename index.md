@@ -11,7 +11,7 @@ title: "Balancing Privacy and Action Performance: A Penalty-Driven Approach to I
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization) [![Code](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization) [![arXiv](https://img.shields.io/badge/arXiv-2504.14301-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.14301)
+[![Code](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization) [![arXiv](https://img.shields.io/badge/arXiv-2504.14301-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.14301)
 
 ---
 
