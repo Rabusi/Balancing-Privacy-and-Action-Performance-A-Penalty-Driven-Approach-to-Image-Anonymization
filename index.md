@@ -1,5 +1,5 @@
 ---
-title: Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
+title: "Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization"
 --- 
 
 # Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
@@ -9,6 +9,7 @@ title: Balancing Privacy and Action Performance: A Penalty-Driven Approach to Im
 <sup>1</sup> Visual Analysis and Perception Lab, Aalborg University, Denmark  
 <sup>2</sup> Pioneer Centre for AI, Denmark  
 <sup>3</sup> Milestone Systems, Denmark
+
 
 
 🧠 This project introduces a **penalty-driven strategy** to balance 🔒 anonymization and 🏃‍♀️ action recognition performance, using custom 🧪 loss functions and 🛠️ two-step training.
