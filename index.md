@@ -1,14 +1,11 @@
 
 # Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
-
-### 👩‍💻 Authors  
-- [Nazia Aslam](https://github.com/Rabusi)<sup>1,2</sup>  
-- [Kamal Nasrollahi](https://www.linkedin.com/in/kamal-nasrollahi-676b3352/)<sup>1,2,3</sup>  
-
-### 📍 Affiliations  
-1. Visual Analysis and Perception Lab, Aalborg University, Denmark  
-2. Pioneer Centre for AI, Denmark  
-3. Milestone Systems, Denmark
+ 
+[Nazia Aslam](https://github.com/Rabusi)<sup>1,2</sup>, [Kamal Nasrollahi](https://vbn.aau.dk/en/persons/117162)<sup>1,2,3</sup>  
+<br>
+<sup>1</sup> Visual Analysis and Perception Lab, Aalborg University, Denmark  
+<sup>2</sup> Pioneer Centre for AI, Denmark  
+<sup>3</sup> Milestone Systems, Denmark
 
 
 📌 **Official implementation of our CVPRW 2025 paper**  
