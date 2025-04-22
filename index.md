@@ -1,15 +1,15 @@
+---
+title: Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
+--- 
 
 # Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
- 
+
 [Nazia Aslam](https://github.com/Rabusi)<sup>1,2</sup>, [Kamal Nasrollahi](https://vbn.aau.dk/en/persons/117162)<sup>1,2,3</sup>  
 <br>
 <sup>1</sup> Visual Analysis and Perception Lab, Aalborg University, Denmark  
 <sup>2</sup> Pioneer Centre for AI, Denmark  
 <sup>3</sup> Milestone Systems, Denmark
 
-
-📌 **Official implementation of our CVPRW 2025 paper**  
-"A PyTorch-based framework for training anonymization models with action recognition constraints."
 
 🧠 This project introduces a **penalty-driven strategy** to balance 🔒 anonymization and 🏃‍♀️ action recognition performance, using custom 🧪 loss functions and 🛠️ two-step training.
 
