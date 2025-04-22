@@ -1,8 +1,15 @@
----
-title: Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization
----
 
-# 🔐 Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
+# Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
+
+### 👩‍💻 Authors  
+- [Nazia Aslam](https://github.com/Rabusi)<sup>1,2</sup>  
+- [Kamal Nasrollahi](https://www.linkedin.com/in/kamal-nasrollahi-676b3352/)<sup>1,2,3</sup>  
+
+### 📍 Affiliations  
+1. Visual Analysis and Perception Lab, Aalborg University, Denmark  
+2. Pioneer Centre for AI, Denmark  
+3. Milestone Systems, Denmark
+
 
 📌 **Official implementation of our CVPRW 2025 paper**  
 "A PyTorch-based framework for training anonymization models with action recognition constraints."
@@ -13,7 +20,7 @@ title: Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Ima
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rabusi.Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
+[![Code](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.14301-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2504.14301)
 
