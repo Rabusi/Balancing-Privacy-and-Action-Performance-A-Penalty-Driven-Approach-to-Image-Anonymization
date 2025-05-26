@@ -1,8 +1,5 @@
 # Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization
 
-📌 **Official implementation of our CVPRW 2025 paper**  
-"A PyTorch-based framework for training anonymization models with action recognition constraints."
-
 🧠 This project introduces a **penalty-driven strategy** to balance 🔒 anonymization and 🏃‍♀️ action recognition performance, using custom 🧪 loss functions and 🛠️ two-step training.
 
 ---
