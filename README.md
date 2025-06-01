@@ -14,9 +14,6 @@
   <a href="https://arxiv.org/abs/2504.14301">
     <img src="https://img.shields.io/badge/arXiv-2504.14301-b31b1b.svg" alt="arXiv:2504.14301">
   </a>
-  <a href="https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Rabusi.Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization" alt="Visitors">
-  </a>
 </p>
 
 ---
