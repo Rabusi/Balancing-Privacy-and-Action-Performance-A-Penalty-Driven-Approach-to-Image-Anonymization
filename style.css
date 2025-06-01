@@ -1,0 +1,103 @@
+/* Light theme styling for the project page */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fefefe;
+  color: #222;
+  line-height: 1.6;
+}
+
+header.hero {
+  background: #eaf3ff;
+  padding: 60px 20px;
+  text-align: center;
+  border-bottom: 2px solid #ddd;
+}
+
+header.hero h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.3em;
+}
+
+header.hero p {
+  font-size: 1.2em;
+  color: #444;
+}
+
+.authors {
+  margin-top: 10px;
+  font-size: 0.95em;
+  color: #555;
+}
+
+.links {
+  margin-top: 20px;
+}
+
+.links a {
+  display: inline-block;
+  background: #007acc;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.links a:hover {
+  background: #005fa3;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+section h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+  font-size: 1.6em;
+  color: #111;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+
+.video-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+video {
+  max-width: 48%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+pre {
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+footer {
+  background: #fafafa;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9em;
+  color: #666;
+  border-top: 1px solid #ddd;
+}
