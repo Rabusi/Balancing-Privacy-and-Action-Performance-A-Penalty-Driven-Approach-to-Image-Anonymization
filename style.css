@@ -17,6 +17,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.hero {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
 header {
   text-align: center;
   padding: 60px 20px 30px;
