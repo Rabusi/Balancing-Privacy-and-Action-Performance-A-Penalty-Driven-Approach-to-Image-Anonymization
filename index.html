@@ -3,72 +3,98 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Balancing Privacy and Action Performance</title>
+  <title>Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="hero">
-    <div class="content">
-      <h1>Balancing Privacy and Action Performance</h1>
-      <p>A Penalty-Driven Approach to Image Anonymization</p>
-      <div class="authors">
-        Nazia Aslam<sup>1,2</sup>, <a href="https://vbn.aau.dk/en/persons/117162">Kamal Nasrollahi</a><sup>1,2,3</sup><br />
-        <sup>1</sup>Aalborg University, <sup>2</sup>Pioneer Centre for AI, <sup>3</sup>Milestone Systems
-      </div>
-      <div class="links">
-        <a href="https://arxiv.org/pdf/2504.14301" target="_blank">Paper</a>
-        <a href="https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization" target="_blank">Code</a>
-      </div>
+
+  <header>
+    <h1>Balancing Privacy and Action Performance:<br>A Penalty-Driven Approach to Image Anonymization</h1>
+    <p>
+      <a href="https://vbn.aau.dk/da/persons/naas" target="_blank">Nazia Aslam</a><sup>1,2</sup>,
+      <a href="https://vbn.aau.dk/en/persons/117162" target="_blank">Kamal Nasrollahi</a><sup>1,2,3</sup><br>
+      <sup>1</sup>Visual Analysis and Perception Lab, Aalborg University, Denmark<br>
+      <sup>2</sup>Pioneer Centre for AI, Denmark<br>
+      <sup>3</sup>Milestone Systems, Denmark
+    </p>
+
+    <div class="links">
+      <a class="button" href="https://arxiv.org/pdf/2504.14301" target="_blank">📄 Paper (arXiv)</a>
+      <a class="button" href="https://github.com/Rabusi/Balancing-Privacy-and-Action-Performance-A-Penalty-Driven-Approach-to-Image-Anonymization" target="_blank">💻 Code</a>
     </div>
   </header>
 
-  <section id="abstract">
+  <section>
     <h2>Abstract</h2>
     <p>
-      We introduce a penalty-driven strategy for image anonymization that maintains high action recognition performance. Our method, compliant with GDPR and the EU AI Act, uses a novel feature-based penalty to protect private attributes while preserving task-critical information. Experiments show that performance is retained even with increased anonymization.
+      The rapid development of video surveillance systems for object detection, tracking, activity recognition, and anomaly detection has revolutionized our day-to-day lives while setting alarms for privacy concerns. It isn't easy to strike a balance between visual privacy and action recognition performance in most computer vision models. Is it possible to safeguard privacy without sacrificing performance? It poses a formidable challenge, as even minor privacy enhancements can lead to substantial performance degradation.
+    </p>
+    <p>
+      To address this challenge, we propose a privacy-preserving image anonymization technique that optimizes the anonymizer using penalties from the utility branch, ensuring improved action recognition performance while minimally affecting privacy leakage. This approach addresses the trade-off between minimizing privacy leakage and maintaining high action performance.
+    </p>
+    <p>
+      The proposed approach is primarily designed to align with the regulatory standards of the EU AI Act and GDPR, ensuring the protection of personally identifiable information while maintaining action performance. To the best of our knowledge, we are the first to introduce a feature-based penalty scheme that exclusively controls the action features, allowing freedom to anonymize private attributes.
+    </p>
+    <p>
+      Extensive experiments were conducted to validate the effectiveness of the proposed method. The results demonstrate that applying a penalty to anonymizer from utility branch enhances action performance while maintaining nearly consistent privacy leakage across different penalty settings.
     </p>
   </section>
 
-  <section id="framework">
-    <h2>Proposed Framework</h2>
-    <img src="images/architecture.png" alt="Model Architecture" />
+  <section>
+    <h2>Proposed Architecture</h2>
+    <img src="images/architecture.png" alt="Architecture" />
   </section>
 
-  <section id="examples">
-    <h2>Anonymized Examples</h2>
-    <img src="images/brushhair.png" alt="Anonymized Brush Hair Example" />
+  <section>
+    <h2>Anonymized Images with Various Penalty Settings</h2>
+    <img src="images/brushhair.png" alt="Anonymized Sample" />
   </section>
 
-  <section id="results">
+  <section>
     <h2>Results</h2>
     <img src="images/tab1.png" alt="Results Table 1" />
     <img src="images/tab2.png" alt="Results Table 2" />
   </section>
 
-  <section id="videos">
-    <h2>Video Comparison</h2>
+  <section>
+    <h2>Anonymized Videos</h2>
     <div class="video-row">
-      <video controls><source src="images/1.mp4" type="video/mp4" /></video>
-      <video controls><source src="images/2.mp4" type="video/mp4" /></video>
+      <div>
+        <p style="text-align: center; font-weight: bold;">Raw Video</p>
+        <video controls><source src="images/1.mp4" type="video/mp4" /></video>
+      </div>
+      <div>
+        <p style="text-align: center; font-weight: bold;">Anonymized Video</p>
+        <video controls><source src="images/2.mp4" type="video/mp4" /></video>
+      </div>
     </div>
     <div class="video-row">
-      <video controls><source src="images/3.mp4" type="video/mp4" /></video>
-      <video controls><source src="images/4.mp4" type="video/mp4" /></video>
+      <div>
+        <p style="text-align: center; font-weight: bold;">Raw Video</p>
+        <video controls><source src="images/3.mp4" type="video/mp4" /></video>
+      </div>
+      <div>
+        <p style="text-align: center; font-weight: bold;">Anonymized Video</p>
+        <video controls><source src="images/4.mp4" type="video/mp4" /></video>
+      </div>
     </div>
   </section>
 
-  <section id="citation">
-    <h2>Citation</h2>
-    <pre><code>@article{aslam2024balancing,
+  <section>
+    <h2>📚 Citation</h2>
+    <pre>
+@article{aslam2025balancing,
   title={Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization},
   author={Aslam, Nazia and Nasrollahi, Kamal},
   journal={arXiv preprint arXiv:2504.14301},
-  year={2024}
-}</code></pre>
+  year={2025}
+}
+    </pre>
   </section>
 
   <footer>
     <p>Contact: <a href="mailto:naas@create.aau.dk">naas@create.aau.dk</a></p>
   </footer>
+
 </body>
 </html>
